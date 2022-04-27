@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Languages:
+Languages used:
 - C
 - C++
 - Assembly
