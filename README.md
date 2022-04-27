@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+I am a computer engineering student at the University of Waterloo in my 1B school term.
+
 Languages used:
 - C
 - C++
 - Assembly
 - Swift/SwiftUI
+
+I also have experience using both Unity, Godot and Unreal Engine game engines.
 
 <!--
 **JJDoleweerd/JJDoleweerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
