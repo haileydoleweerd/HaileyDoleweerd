@@ -6,6 +6,7 @@ Languages used:
 - C
 - C++
 - Assembly
+- Python
 - Swift/SwiftUI
 
 I also have experience using both Unity, Godot and Unreal Engine game engines.
