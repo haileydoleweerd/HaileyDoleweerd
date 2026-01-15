@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a computer engineering student at the University of Waterloo in my 1B school term.
+I am a computer engineering student at the University of Waterloo.
 
 Languages used:
 - C
